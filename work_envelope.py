@@ -10,11 +10,11 @@ q1_max = 1.54
 q2_min = 0
 q2_max = 1.54
 
-q3_min = 0
+q3_min = -1.54
 q3_max = 1.54
 
-q4_min = 0
-q4_max = 0
+q4_min = -1.54
+q4_max = 1.54
 
 #define link lenghts
 link_1 = 100

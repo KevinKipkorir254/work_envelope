@@ -16,3 +16,7 @@ Moving the elbow joint from -1.54 to 1.54 keeping everything else constant.
 Moving the wrist joint from -1.54 to 1.54 keeping everything else constant.
 
 ![Screenshot from 2023-09-25 11-34-04](https://github.com/KevinKipkorir254/work_envelope/assets/96063788/fd924a02-dfd9-4fd5-bb1a-4fc627f8ea03)
+
+Everything running together.
+
+![Screenshot from 2023-09-25 11-39-45](https://github.com/KevinKipkorir254/work_envelope/assets/96063788/130b6fe3-a950-4d72-8245-762ad9f9df90)
